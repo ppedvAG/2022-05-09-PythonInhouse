@@ -1,0 +1,6 @@
+https://www.linode.com/docs/guides/how-to-create-a-private-python-package-repository/
+Eigenen PyPI server hosten
+
+
+Im Rahmen des Kurses laden wir auf folgende Seite hoch:
+https://test.pypi.org/

@@ -1,0 +1,16 @@
+ERROR 8468 10-05-2022 13:16:50 - Exception aufgetreten: division by zero
+ERROR 24928 10-05-2022 13:17:59 - Exception trat auf
+Traceback (most recent call last):
+  File "c:\Users\ms5\Documents\Kurse\2022-05-09-InhousePython\modul08.py", line 12, in <module>
+    print(10 / 0)
+ZeroDivisionError: division by zero
+ERROR 26684 10-05-2022 13:19:16 - Exception trat auf
+Traceback (most recent call last):
+  File "c:\Users\ms5\Documents\Kurse\2022-05-09-InhousePython\modul08.py", line 12, in <module>
+    print(10 / 0)
+ZeroDivisionError: division by zero
+root ERROR 27940 10-05-2022 13:21:31 - Exception trat auf
+Traceback (most recent call last):
+  File "c:\Users\ms5\Documents\Kurse\2022-05-09-InhousePython\modul08.py", line 12, in <module>
+    print(10 / 0)
+ZeroDivisionError: division by zero
